@@ -36,7 +36,7 @@ namespace Refactoring.UnitTests.Laba1
             [Fact]
             public void StringFormatter_ShortFileString()
             {
-                var path = "D:/C#/Sandbox/TestProjcet/TestFile.cs";
+                var path = "D:/C#/Sandbox/TestProject/TestFile.cs";
 
                 var result = StringFormatter.ShortFileString(path);
 
