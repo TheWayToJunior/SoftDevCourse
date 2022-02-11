@@ -2,8 +2,11 @@
 using System.Linq;
 using Xunit;
 
-namespace Refactoring.UnitTests.Laba1
+namespace Tests.FirstPracticalWork
 {
+    /// <summary>
+    /// Task 3-2
+    /// </summary>
     public static class TestTwo
     {
         private static class StringFormatter

@@ -1,11 +1,14 @@
 ﻿using System.Linq;
 using Xunit;
 
-namespace Refactoring.UnitTests.Laba1
+namespace Tests.FirstPracticalWork
 {
+    /// <summary>
+    /// Task 3-3
+    /// </summary>
     public static class TaskThree
     {
-        private class Sorter
+        internal class Sorter
         {
             public static double[] SortAndFilter(double[] array)
             {

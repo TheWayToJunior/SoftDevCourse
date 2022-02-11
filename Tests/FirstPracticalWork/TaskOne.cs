@@ -3,8 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using Xunit;
 
-namespace Refactoring.UnitTests.Laba1
+namespace Tests.FirstPracticalWork
 {
+    /// <summary>
+    /// Task 1-1
+    /// </summary>
     public static class TaskOne
     {
         class Treangle
